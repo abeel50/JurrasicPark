@@ -1,0 +1,28 @@
+Dinosaur 1:
+Name:      	Triceratops
+Description:B
+                Bearing a large bony frill and three horns on the skull, and 
+                 its large four-legged body possessing similarities with the 
+                 modern rhinoceros, Triceratops is one of the most recognizable 
+                 of all dinosaurs and the best known ceratopsid. It was also 
+                 one of the largest, up to nine metres long and twelve tonnes 
+                 in weight. It shared the landscape with and was probably preyed 
+                 upon by Tyrannosaurus, though it is less certain that the two 
+                 did battle in the manner often depicted in museum displays and 
+                 popular images. The functions of the frills and three distinctive 
+                 facial horns on its head have long inspired debate. Traditionally, 
+                 these have been viewed as defensive weapons against predators. 
+                 More recent interpretations find it probable that these features 
+                 were primarily used in species identification, courtship and 
+                 dominance display, much like the antlers and horns of modern 
+                 species.
+
+Length:    	7.50 feet
+Height:    	26.00 feet
+Location:  	North America
+Dangerous?	no
+Number of Hours to take care for Dinosaur:	1.00
+Cost per Hours of taking Care of Dinosaur:	$0.00
+Cost to feed Dinosaur:                    	$0.00
+Grooming and Supplies Cost:               	$25.00
+
